@@ -59,7 +59,7 @@ jobs:
           mkdir images
           cp -r Intro_to_Machine_Learning_Full_Repo/images/* images
 
-          # Data
+          # Data 
 
           # Resources
           rm -rf reference_content
